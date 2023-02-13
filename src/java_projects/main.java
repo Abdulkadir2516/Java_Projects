@@ -13,6 +13,10 @@ public class main {
 
         Armstrong_Sayýsý arm = new Armstrong_Sayýsý();
         arm.hesapla(25);
+        
+        String_Convert replace = new String_Convert();
+        replace.convert("Türçe karakterleri ingilizceye dönüþtür");
+        
 
     }
     
