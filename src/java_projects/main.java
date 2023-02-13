@@ -17,6 +17,9 @@ public class main {
         String_Convert replace = new String_Convert();
         replace.convert("Türçe karakterleri ingilizceye dönüþtür");
         
+        Circle_Game game = new Circle_Game();
+        String[] arr = {"Abdulkadir", "Mehmet", "Kayra", "Erdem", "Metehan", "Gayret", "Zeynep"};
+        game.oyun(arr);
 
     }
     
